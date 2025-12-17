@@ -42,7 +42,6 @@ public class Main {
         ballet.addActor(actor1);
         ballet.addActor(actor3);
 
-        // 6) Для каждого спектакля вывести список актёров
         System.out.println();
         System.out.println("Актёры спектакля \"Ревизор\":");
         regularShow.printActors();

@@ -5,6 +5,5 @@ public class Director extends Person {
         super(name, surname, gender);
         this.numberOfShows = numberOfShows;
     }
-    //
     public int getNumberOfShows() { return numberOfShows; }
 }
